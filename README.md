@@ -1,1 +1,2 @@
-# momentum_gd_from_scratch
+# Gradient descent with momentum'
+Implementation of gradient descent with momentum from scratch
